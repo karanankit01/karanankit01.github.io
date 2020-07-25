@@ -975,7 +975,7 @@ h3.subheading-agileits-w3layouts {
 	-ms-background-size: cover;
 	background-size: cover;
 	min-height: 444px;
-	float: left;
+	float: right;
 }
 
 .por-img-agileits {
@@ -986,7 +986,6 @@ h3.subheading-agileits-w3layouts {
 	-ms-background-size: cover;
 	background-size: cover;
 	min-height: 444px;
-	float: left;
 }
 
 
@@ -1533,10 +1532,11 @@ h3.subheading-agileits-w3layouts {
 		float: none;
 	}
 	.edu-img-agileits,
+	.por-img-agileits,
 	.exp-img-agileits {
 		width: 100%;
 		min-height: 400px;
-		float: left;
+		float: none;
 	}
 	.about-left-agileits {
 		margin-bottom: 2.5em;

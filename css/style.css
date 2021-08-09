@@ -967,6 +967,18 @@ h3.subheading-agileits-w3layouts {
 	background-color: #000;
 }
 
+
+.work-img-agileits {
+	background: url(../images/work.jpg)no-repeat 0px 0px;
+	-webkit-background-size: cover;
+	-moz-background-size: cover;
+	-o-background-size: cover;
+	-ms-background-size: cover;
+	background-size: cover;
+	min-height: 444px;
+	float: right;
+}
+
 .edu-img-agileits {
 	background: url(../images/edu.jpg)no-repeat 0px 0px;
 	-webkit-background-size: cover;
@@ -1391,7 +1403,7 @@ h3.subheading-agileits-w3layouts {
 		width: 100%;
 		float: none;
 	}
-	.edu-img-agileits,
+	.edu-img-agileits,.work-img-agileits,
 	.exp-img-agileits {
 		min-height: 429px;
 	}
@@ -1453,6 +1465,7 @@ h3.subheading-agileits-w3layouts {
 }
 
 @media(max-width:1024px) {
+	.work-img-agileits,
 	.edu-img-agileits,
 	.exp-img-agileits {
 		width: 55%;
@@ -1531,6 +1544,7 @@ h3.subheading-agileits-w3layouts {
 		padding: 4em 2em;
 		float: none;
 	}
+	.work-img-agileits,
 	.edu-img-agileits,
 	.por-img-agileits,
 	.exp-img-agileits {
@@ -1822,6 +1836,7 @@ h3.subheading-agileits-w3layouts {
 		letter-spacing: 1px;
 		margin-top: 10px;
 	}
+	.work-img-agileits,
 	.edu-img-agileits,
 	.exp-img-agileits {
 		min-height: 200px;

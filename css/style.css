@@ -1012,6 +1012,16 @@ h3.subheading-agileits-w3layouts {
 	float: left;
 }
 
+.achi-img-agileits {
+	background: url(../images/Medals.jpg)no-repeat 0px 0px;
+	-webkit-background-size: cover;
+	-moz-background-size: cover;
+	-o-background-size: cover;
+	-ms-background-size: cover;
+	background-size: cover;
+	min-height: 444px;
+	float: right;
+}
 .display-grid-1-w3lsagile {
 	padding: 3em 2em;
 }
